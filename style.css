@@ -1,0 +1,38 @@
+body{
+   text-align: center;
+}
+
+div{
+   height: 100px;
+   width: 100px;
+   background-color: aquamarine;
+   display: inline-block;
+   border:2px solid black;
+}
+
+#container{
+   width: 800px;
+   height: 200px;
+   background-color:dimgrey;
+   color:color(from)
+}
+
+#box1{
+    background-color: blue;
+}
+
+#box2{
+    background-color:yellow;
+}
+
+#box3{
+    background-color:aqua;
+}
+
+#box4{
+    background-color:green;
+}
+
+#box5{
+    background-color:pink;
+}
